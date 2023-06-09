@@ -1,0 +1,12 @@
+names:
+- Printing-Artifact
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: printing-artifact-detector
+  url: https://universe.roboflow.com/diploma-fsn1y/printing-artifact-detector/dataset/4
+  version: 4
+  workspace: diploma-fsn1y
+test: Printing-Artifact-Detector-4/test/images
+train: Printing-Artifact-Detector-4/train/images
+val: Printing-Artifact-Detector-4/valid/images
